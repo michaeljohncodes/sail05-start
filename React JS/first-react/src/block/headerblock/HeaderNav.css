@@ -1,0 +1,6 @@
+.headerNav1Container {
+  display: flex;
+  nav {
+    margin: 0 10px;
+  }
+}
