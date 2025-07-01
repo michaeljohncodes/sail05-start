@@ -18,8 +18,8 @@ const Header = () => {
           <li>Contact</li>
         </Link>
       </ul>
-      <Username name="Peter" />
-      <Age myAge={31} />
+      {/* <Username name="Peter" />
+      <Age myAge={31} /> */}
     </div>
   );
 };

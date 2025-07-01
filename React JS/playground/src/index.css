@@ -18,3 +18,22 @@ body {
 h1 {
   font-size: 2em;
 }
+
+button {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin: 0 10px;
+}
+
+input {
+  height: 40px;
+  border: 1px solid lightgray;
+  margin: 10px 0;
+}
+
+textarea {
+  border: 1px solid lightgray;
+  margin: 10px 0;
+  height: 100px;
+}
